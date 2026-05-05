@@ -1,0 +1,116 @@
+ErrorDocument 403 /404.html
+ErrorDocument 404 /404.html
+
+DirectoryIndex page66004155.html
+
+RewriteEngine On
+
+RewriteCond %{REQUEST_FILENAME} /robots.txt
+RewriteCond "%{DOCUMENT_ROOT}/project6159073/robots_%{HTTP_HOST}.txt" -f
+RewriteRule ^(.*)$ robots_%{HTTP_HOST}.txt [NC,L]
+RewriteRule ^learn/kitesurf$ page66005749.html [NC]
+RewriteRule ^learn/kitesurf/$ page66005749.html [NC]
+
+RewriteRule ^learn/wingfoil$ page66005751.html [NC]
+RewriteRule ^learn/wingfoil/$ page66005751.html [NC]
+
+RewriteRule ^kitesurfing$ page66005753.html [NC]
+RewriteRule ^kitesurfing/$ page66005753.html [NC]
+
+RewriteRule ^wingfoil/$ page66005759.html [NC]
+RewriteRule ^wingfoil//$ page66005759.html [NC]
+
+RewriteRule ^equipment-rental$ page66005761.html [NC]
+RewriteRule ^equipment-rental/$ page66005761.html [NC]
+
+RewriteRule ^sup$ page66005763.html [NC]
+RewriteRule ^sup/$ page66005763.html [NC]
+
+RewriteRule ^solo-surf$ page66005767.html [NC]
+RewriteRule ^solo-surf/$ page66005767.html [NC]
+
+RewriteRule ^hostel$ page66072359.html [NC]
+RewriteRule ^hostel/$ page66072359.html [NC]
+
+RewriteRule ^kite-club-hotel$ page66072387.html [NC]
+RewriteRule ^kite-club-hotel/$ page66072387.html [NC]
+
+RewriteRule ^4-stars-hotel$ page66072403.html [NC]
+RewriteRule ^4-stars-hotel/$ page66072403.html [NC]
+
+RewriteRule ^faq$ page66005781.html [NC]
+RewriteRule ^faq/$ page66005781.html [NC]
+
+RewriteRule ^blog$ page66005783.html [NC]
+RewriteRule ^blog/$ page66005783.html [NC]
+
+RewriteRule ^menu-esp$ page65703835.html [NC]
+RewriteRule ^menu-esp/$ page65703835.html [NC]
+
+RewriteRule ^esp$ page31542219.html [NC]
+RewriteRule ^esp/$ page31542219.html [NC]
+
+RewriteRule ^aprende/kitesurf/esp$ page31542362.html [NC]
+RewriteRule ^aprende/kitesurf/esp/$ page31542362.html [NC]
+
+RewriteRule ^aprende/wingfoil/esp$ page31569873.html [NC]
+RewriteRule ^aprende/wingfoil/esp/$ page31569873.html [NC]
+
+RewriteRule ^kitesurfing/esp$ page65827353.html [NC]
+RewriteRule ^kitesurfing/esp/$ page65827353.html [NC]
+
+RewriteRule ^wingfoil/esp$ page65840421.html [NC]
+RewriteRule ^wingfoil/esp/$ page65840421.html [NC]
+
+RewriteRule ^equipment/esp$ page65844753.html [NC]
+RewriteRule ^equipment/esp/$ page65844753.html [NC]
+
+RewriteRule ^sup/esp$ page65842281.html [NC]
+RewriteRule ^sup/esp/$ page65842281.html [NC]
+
+RewriteRule ^solo-surf/esp$ page65781373.html [NC]
+RewriteRule ^solo-surf/esp/$ page65781373.html [NC]
+
+RewriteRule ^acommodation/hostal/esp$ page66003811.html [NC]
+RewriteRule ^acommodation/hostal/esp/$ page66003811.html [NC]
+
+RewriteRule ^acommodation/hotel-kite/esp$ page66003877.html [NC]
+RewriteRule ^acommodation/hotel-kite/esp/$ page66003877.html [NC]
+
+RewriteRule ^acommodation/4-estrellas/esp$ page66003929.html [NC]
+RewriteRule ^acommodation/4-estrellas/esp/$ page66003929.html [NC]
+
+RewriteRule ^faq/esp$ page31551062.html [NC]
+RewriteRule ^faq/esp/$ page31551062.html [NC]
+
+RewriteRule ^blog/esp$ page31270579.html [NC]
+RewriteRule ^blog/esp/$ page31270579.html [NC]
+
+RewriteRule ^fr$ page32137535.html [NC]
+RewriteRule ^fr/$ page32137535.html [NC]
+
+RewriteRule ^kite-fr$ page31961511.html [NC]
+RewriteRule ^kite-fr/$ page31961511.html [NC]
+
+RewriteRule ^wingfoil-fr$ page31961947.html [NC]
+RewriteRule ^wingfoil-fr/$ page31961947.html [NC]
+
+RewriteRule ^kitesurf-forfaits-fr$ page31962159.html [NC]
+RewriteRule ^kitesurf-forfaits-fr/$ page31962159.html [NC]
+
+RewriteRule ^faq-fr$ page31962668.html [NC]
+RewriteRule ^faq-fr/$ page31962668.html [NC]
+
+RewriteRule ^blog-fr$ page56269283.html [NC]
+RewriteRule ^blog-fr/$ page56269283.html [NC]
+
+RewriteRule ^menu$ page31376304.html [NC]
+RewriteRule ^menu/$ page31376304.html [NC]
+
+RewriteRule ^footer$ page31376330.html [NC]
+RewriteRule ^footer/$ page31376330.html [NC]
+
+RewriteRule ^theclub$ page99855486.html [NC]
+RewriteRule ^theclub/$ page99855486.html [NC]
+
+

@@ -1,0 +1,30 @@
+User-Agent: *
+Disallow: /page32137535.html
+Disallow: /fr
+Disallow: /page31961511.html
+Disallow: /kite-fr
+Disallow: /page31961947.html
+Disallow: /wingfoil-fr
+Disallow: /page31962159.html
+Disallow: /kitesurf-forfaits-fr
+Disallow: /page31962668.html
+Disallow: /faq-fr
+Disallow: /page56269283.html
+Disallow: /blog-fr
+Disallow: /page31376304.html
+Disallow: /menu
+Disallow: /page31376330.html
+Disallow: /footer
+Disallow: /tilda/form*
+Disallow: /tilda/rec*
+Disallow: /tilda/click*
+Disallow: /tilda/scroll*
+Disallow: /tilda/popup*
+Disallow: /tilda/cart*
+Disallow: /tilda/product*
+Disallow: /tilda/event*
+Disallow:
+
+
+Sitemap: https://www.mancorakiteclub.com/sitemap.xml
+Sitemap: https://www.mancorakiteclub.com/sitemap-feeds.xml
